@@ -48,6 +48,7 @@ footer {
   color: #323232;
   font-family: Inter;
   font-size: 18px;
+  text-decoration: none;
 }
 .contact_us {
   border-radius: 8px;
